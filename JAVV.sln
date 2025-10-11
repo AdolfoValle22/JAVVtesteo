@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JAVV.Temperatura.UnitTest.M
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JAVV.Manipulaciones", "JAVV.Manipulaciones\JAVV.Manipulaciones.csproj", "{5BCB40F5-F9CD-4BDE-8D36-B7C37D1257C4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JAVV.Manipulaciones.UnitTest.xUnit", "JAVV.Manipulaciones.UnitTest.xUnit\JAVV.Manipulaciones.UnitTest.xUnit.csproj", "{629DCBCB-7B6B-457A-A613-905A71A340FF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{5BCB40F5-F9CD-4BDE-8D36-B7C37D1257C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5BCB40F5-F9CD-4BDE-8D36-B7C37D1257C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5BCB40F5-F9CD-4BDE-8D36-B7C37D1257C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{629DCBCB-7B6B-457A-A613-905A71A340FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{629DCBCB-7B6B-457A-A613-905A71A340FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{629DCBCB-7B6B-457A-A613-905A71A340FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{629DCBCB-7B6B-457A-A613-905A71A340FF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
